@@ -1,6 +1,6 @@
 register-user:
   minutes: 1
-  times: 5
+  times: 20
 spring:
   mail:
     username: danielpwc
